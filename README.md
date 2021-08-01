@@ -12,3 +12,6 @@ critically stupid this script wont work, but its pretty quick so its got that go
 I am distributing this under GPL3 because Yan3ikyt didnt add a license, if you are Yan3ikyt and want me to change the license or delete this repo, just email me!
 
 Have a nice day! also you lost the game.
+
+
+BTW, I am not legally responsible for your usage of this tool! Dont be a cock!
