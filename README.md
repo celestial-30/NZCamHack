@@ -4,7 +4,7 @@ The original code was a big ol animation script and like, 20 lines of actual fun
 
 Mostly I just removed the animations and made it so instead of asking where you are it just defaults to NZ, because thats where i live.
 
-if you want to thanks someone for this code, thank Yan3ikyt, I did very little actual coding.
+if you want to thank someone for this code, thank Yan3ikyt, I did very little actual coding.
 
 It works by looking up a list of known insecure webcam ip:port combos, and tries all of them. telling you if it finds one, if the people running the camera were not 
 critically stupid this script wont work, but its pretty quick so its got that going for it.
